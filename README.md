@@ -5,7 +5,7 @@
 *****
 
  **Integrantes** :trophy:
-* xxxxxx RA:579622 :rocket:
+* Suryan RA:579622 :rocket:
 * xxxxxx RA:xxxxxx :rocket:
 * xxxxxx RA:xxxxxx :rocket:
 ******
