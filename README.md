@@ -6,8 +6,8 @@
 
  **Integrantes** :trophy:
 * Suryan RA:579622 :rocket:
-* xxxxxx RA:xxxxxx :rocket:
-* xxxxxx RA:xxxxxx :rocket:
+* Felipe RA:586676 :rocket:
+* Guilherme RA:465841 :rocket:
 ******
 <h2 align="center"> Laboratorio de Projeto de Sistemas - Pontifícia Universidade Católica de Minas Gerais</h2> 
 
